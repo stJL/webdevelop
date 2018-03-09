@@ -4,7 +4,7 @@ date: 2018-03-10 12:12:12 z
 subtitle: 不會程式卻硬闖？！
 author: stJL
 avatar: img/authors/author.png
-image: img/1.jpg
+image: img/1.png
 ---
 
 ##Hello World , Hello STU.
@@ -36,8 +36,6 @@ image: img/1.jpg
 - 可在離線編輯/預覽
 
 - 國際化
-
-   ​
 
    缺點也有的嘛：
 
