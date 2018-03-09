@@ -59,21 +59,14 @@ image: img/1.png
 大家理解了嗎？
 
 參考鏈接：
-
 https://pages.github.com/
-
 https://wordpress.com/
-
 https://www.wix.com/
 
 友情鏈接：
-
 https://github.com/inded
-
 https://www.facebook.com/STUGirls/ 
-
 https://www.facebook.com/kenchenreseachlab/
 
 分享鏈接：
-
 https://stjl.github.io/webdevelop/
