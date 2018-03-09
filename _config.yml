@@ -1,7 +1,15 @@
-# Site settings
+---
 title: Modern Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: ''
+url: ''
