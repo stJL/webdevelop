@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: 2018-03-10 12:12:12 z
+date: 2018-03-10 12:12:12 Z
 subtitle: 不會程式卻硬闖？！
 author: stJL
 avatar: img/authors/author.png
