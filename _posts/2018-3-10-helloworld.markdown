@@ -1,19 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "Hello World!"
-subtitle: "不會程式卻硬闖？！"
-author: "stJL"
-avatar: "img/authors/author.png"
-image: "img/1.png"
-date: 2018-03-10 12:12:12 Z
-=======
-title: Hello World!
-date: 2018-03-10 12:12:12 Z
-subtitle: 不會程式卻硬闖？！
-author: stJL
-avatar: img/authors/author.png
-image: img/1.png
->>>>>>> ea5f8716513af3a701f857e5f2d780cbc72caf76
+title: 2018 03 10 2018 3 10 Helloworld
 ---
 
 ###Hello World , Hello STU.
