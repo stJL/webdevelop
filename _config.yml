@@ -1,5 +1,5 @@
 ---
-title: Modern Blog
+title: stJL.blog
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Modern-Blog A Elegant template for Jekyll
+description: stJL.blog used Jekyll
 keywords: Modern, Blogging, Fun
 author: Wferr
 baseurl: 
