@@ -65,9 +65,13 @@ image: img/c.png
 
 ****
 
-#光
 
-**以下為小編自己回家復習后的記錄，如有錯誤，請多包涵並指正。謝謝。**
+
+##光
+
+
+
+以下為小編自己回家復習后的記錄，如有錯誤，請多包涵並指正。謝謝。**
 
 光擁有「強度」、「色調」、「個性」屬性（小編不詳細説明，請自行參考色彩學以及業界例子）。
 
@@ -93,7 +97,7 @@ image: img/c.png
 
 ***
 
-**光的分類 **
+**光的分類**
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/3_point_lighting.svg/729px-3_point_lighting.svg.png)
 
