@@ -29,7 +29,9 @@ image: img/c.png
 
 打燈前，客戶會給概念圖或照片並要求做出客戶想要的風格，氣氛，這時候就要去分析客戶給的圖裏他需要呈現什麽，過後是分析氣氛，燈的顔色，色調等等。
 
-=>概念圖![img](https://cdn2.ettoday.net/images/1510/1510908.jpg)
+=>概念圖
+
+![img](https://cdn2.ettoday.net/images/1510/1510908.jpg)
 
 =>成品
 
@@ -115,9 +117,9 @@ C.     勾邊光 `Rim(Back) Light`：勾邊光可以勾勒輪廓，讓物體和�
 
 D.    其他光源(點火，閃電的光，不屬於以上任何一個光，都屬影響光)
 
-![Image result for 閃電](https://i.ytimg.com/vi/mYBdUWgZEWM/maxresdefault.jpg)
+***
 
-(圖片來自https://www.youtube.com/watch?v=mYBdUWgZEWM)
+
 
 A,B,C加起來運算后：![img](http://1.bp.blogspot.com/-n9geUqQjVD4/U8T0JwHGIFI/AAAAAAAADPU/Pw4mwKQS9rQ/s1600/3ptLight.png)
 
