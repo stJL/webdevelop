@@ -139,8 +139,8 @@ image: img/d.png
 
 se7en老師的演講現場！！（老師抱歉！！！手機太爛，拍不到你@@）
 
-![IMG_20180323_14232](C:\Users\15-p24tx\Documents\GitHub\webdevelop\img\IMG_20180323_142327.jpg)
 
+![IMG_20180323_142327.png]https://raw.githubusercontent.com/stJL/webdevelop/master/img/IMG_20180323_142327.jpg
 這就是這篇文章的重點，如果你的作品沒有買方，那都會衹是**S.H.I.T**,做爽的。
 
 如果你的作品要去延續，那麽你要去思考如何加入這些業務元素。
