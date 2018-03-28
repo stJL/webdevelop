@@ -231,6 +231,8 @@ p/s亂入：繪師自己原創不能花心，在正常向和18x向作出取捨�
 
 Comic Studio卡米客工作室在樹德科技大學橫山基地5樓！（不要在宣傳了啦！！）
 
+之前有和se7en老師見過面，一開始你會認爲他説很認真的人，認識后。。。呵呵~~~但老師的執著也有目共睹，希望未來也能和老師交手呢（希望，希望，希望）
+
 （以下為原案封面，Comic Studio版權所有）
 
 ![d1.png](https://github.com/stJL/webdevelop/blob/master/img/d1.png?raw=true)
