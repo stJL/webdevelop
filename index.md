@@ -1,5 +1,5 @@
 ---
-title: Sleek Jekyll Theme
+title: stJL .blog
 layout: default
 ---
 
