@@ -2,7 +2,7 @@
 layout: compress
 ---
 
-<html lang="{{ page.lang | default: site.lang | default: "en_US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "zh_TW" }}">
 
   {% include head.html %}
 
@@ -11,7 +11,7 @@ layout: compress
     {% if site.google_tag_manager %}
 
       <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ GTM-MHBXTM8 }}"
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- End Google Tag Manager (noscript) -->
 
