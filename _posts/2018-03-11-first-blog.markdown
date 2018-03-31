@@ -3,6 +3,7 @@ title: Introduction of Design
 date: 2018-03-11 12:12:12 Z
 layout: post
 featured-img: b
+summary:好久不見近來安好？
 ---
 
 # First Lesson
