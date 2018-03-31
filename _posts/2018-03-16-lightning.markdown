@@ -77,7 +77,7 @@ featured-img: c
 
 ![img](https://i1.read01.com/SIG=3muf3l9/30476d71704f4f6b784b.jpg)
 
-圖〇：圖片先解釋了hard light(硬光)和soft light(軟光)的形成，相信這不難理解。以下為例子：
+圖〇：圖片先解釋了hard light(硬光)和soft light(軟光)的形成，相信這不難理解。以下為例子：（圖片若無法加載，點擊此網站開啓 [img](https://i1.read01.com/SIG=3muf3l9/30476d71704f4f6b784b.jpg)）
 
 （圖〇來自poco攝影專題）
 
