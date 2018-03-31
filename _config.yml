@@ -1,0 +1,52 @@
+---
+title: stJLblog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+author: stJL
+email: stujueling@gmail.com
+description: JL blog , write some homework or feeling on this site. 
+
+'
+baseurl: "/"
+url: https://stjl.github.io/webdevelop
+twitter_username: stujueling
+github_username: stujueling
+instagram_username: stujueling
+social:
+  name: stujueling
+  links:
+  - https://twitter.com/stujueling
+  - https://www.facebook.com/stujueling
+  - https://www.linkedin.com/in/stujueling
+  - https://plus.google.com/stujueling
+  - https://github.com/stujueling
+disqus:
+  shortname: 
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-sleek
+exclude:
+- README.md
+- node_modules
+- package.json
+- package-lock.json
+- Gemfile
+- Gemfile.lock
+- vendor
+- npm-debug.log
+- gulpfile.js
+- sleek.png
+include:
+- _pages
+permalink: "/:title/"
+compress_html:
+  clippings: all
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
