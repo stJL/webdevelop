@@ -1,7 +1,7 @@
 ---
+title: Lighting
 date: 2018-03-16 12:12:12 Z
 layout: post
-title: Lighting
 featured-img: c
 ---
 

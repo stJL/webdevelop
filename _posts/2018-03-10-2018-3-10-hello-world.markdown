@@ -1,10 +1,9 @@
 ---
+title: Hello World!
 date: 2018-03-10 12:12:12 Z
 layout: post
-title: Hello World!
 featured-img: a
 ---
-
 
 # Hello World , Hello STU.
 用Github架構，由inded(Github)設計，并由我代入的最基礎，最乾净的部落格誕生啦！在茫茫主題海中，由於强大的css設計，讓我喜歡上這種設計，而且每一次刷新，背景會換顔色，挺神奇的！重要的是它也貫徹了我一直在追求的——“簡單 Simple”。

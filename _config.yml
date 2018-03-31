@@ -10,10 +10,8 @@ collections:
     output: true
 author: stJL
 email: stujueling@gmail.com
-description: JL blog , write some homework or feeling on this site. 
-
+description: JL blog , write some homework or feeling on this site.
 baseurl: "/"
-url: https://stjl.github.io/webdevelop
 url: https://stjl.github.io/webdeveloptest
 twitter_username: stujueling
 github_username: stujueling
