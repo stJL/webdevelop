@@ -29,7 +29,7 @@ social:
   - https://plus.google.com/stujueling
   - https://github.com/stujueling
 disqus:
-  shortname:
+  shortname: 
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-sleek
