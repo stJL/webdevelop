@@ -1,5 +1,9 @@
 ---
-title: 2018 03 10 2018 3 10 Hello World
+title: Hello World
+date: 2018-03-10 12:12:12 Z
+layout: post
+featured-img: a
+summary: 世界，你好！
 ---
 
 # Hello World , Hello STU.
