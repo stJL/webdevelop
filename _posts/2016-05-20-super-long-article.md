@@ -1,6 +1,8 @@
 ---
+title: Example--Some articles are just so long they deserve a really long title to
+  see if things will break well
+date: 2016-05-20 00:00:00 Z
 layout: post
-title: "Example--Some articles are just so long they deserve a really long title to see if things will break well"
 featured-img: shane-rounce-205187
 ---
 

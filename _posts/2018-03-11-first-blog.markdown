@@ -1,7 +1,7 @@
 ---
+title: Introduction of Design
 date: 2018-03-11 12:12:12 Z
 layout: post
-title: Introduction of Design
 featured-img: b
 ---
 
