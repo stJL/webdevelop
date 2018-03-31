@@ -1,9 +1,5 @@
 ---
-title: IP產業的經營之道
-date: 2018-03-23 12:12:12 Z
-layout: post
-featured-img: d
-summary:IP不是address!!
+title: 2018 03 23 2018 3 23 Jy Design
 ---
 
 # 開始Start

@@ -1,9 +1,5 @@
 ---
-title: Hello World!
-date: 2018-03-10 12:12:12 Z
-layout: post
-featured-img: a
-summary:第一篇在Github的網頁
+title: 2018 03 10 2018 3 10 Hello World
 ---
 
 # Hello World , Hello STU.
