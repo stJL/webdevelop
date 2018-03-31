@@ -1,5 +1,5 @@
 ---
-title: stJL.blog
+title: stJL .blog
 timezone: UTC
 collections:
   posts:
@@ -8,8 +8,41 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: stJL.blog used Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: 
-url: 
+author: stJL
+email: stujueling@gmail.com
+description:stjl personal website.
+
+'
+baseurl: "/"
+url: https://stjl.github.io/webdevelop
+twitter_username: stujueling
+github_username: stJL
+instagram_username: stujueling
+social:
+  name: stJL
+  links:
+  - https://twitter.com/stujueling
+  - https://www.facebook.com/stujueling
+  - https://github.com/stujueling
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-sleek
+exclude:
+- README.md
+- node_modules
+- package.json
+- package-lock.json
+- Gemfile
+- Gemfile.lock
+- vendor
+- npm-debug.log
+- gulpfile.js
+- sleek.png
+include:
+- _pages
+permalink: "/:title/"
+compress_html:
+  clippings: all
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
